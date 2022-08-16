@@ -1,2 +1,0 @@
-# GIT
-First Git project
